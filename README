@@ -1,0 +1,38 @@
+# 🖥️ C++ Programming Experiments
+
+This repository contains a collection of experiments, practice programs, and learning projects written in C++.
+
+The main goals of this repository are:
+- Deepen understanding of C++ syntax and standard practices.
+- Recreate sorting algorithms from scratch.
+- Implement core data structures manually (e.g., linked lists, trees, stacks).
+- Experiment with multithreading, futures, and mutexes.
+- Study and manually implement key design patterns in C++.
+
+---
+
+## 🛠️ Topics Covered
+
+- Classic sorting algorithms (e.g., Quick Sort, Merge Sort, Bubble Sort)
+- Manual implementation of data structures
+- Understanding and applying OOP principles in C++
+- Multithreading experiments (threads, mutexes, locks)
+- Using std::future and std::async for asynchronous programming
+- Manual replication of design patterns like Singleton, Factory, Observer
+- Experimentation with modern C++ features (C++11 and beyond)
+
+
+📚 
+
+This project was created solely for learning and personal growth.  
+It is not tied to a specific application or project goal.  
+It serves as a space to:
+- Practice key C++ concepts hands-on
+- Revisit complex topics like concurrency and synchronization
+- Build a personal reference library of C++ patterns and techniques
+
+
+- Code examples focus on clarity and practice, not on production optimization.
+- Some experiments are intentionally basic or isolated to focus on one concept at a time.
+- This repository will continue evolving as new C++ concepts are explored.
+

@@ -14,6 +14,7 @@
 #include <sstream>
 #include <any>
 #include <bitset>
+#include <assert.h>
 
 #include <fstream>
 #include <functional>
@@ -36,3 +37,4 @@
 #include <iostream>
 #include <sstream>
 #include <any>
+#include <optional>

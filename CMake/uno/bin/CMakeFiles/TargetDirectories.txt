@@ -1,0 +1,3 @@
+C:/Users/39346/projects/C++/CMake/uno/bin/CMakeFiles/helloworld.dir
+C:/Users/39346/projects/C++/CMake/uno/bin/CMakeFiles/edit_cache.dir
+C:/Users/39346/projects/C++/CMake/uno/bin/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,7 @@
-#include "../IOSTREAM/includes.h"
-//ncjodijsoi
+#include "../../cppHeaders.h"
 
-class House{
+
+class MyClass{
     int doors;
     std::string name;
 };
@@ -25,7 +25,7 @@ int main(){
             throw 'i';
         }
         else if(vaar == 5){
-            House h;
+            MyClass h;
             throw h;
         }
     } catch (std::string str){
@@ -36,7 +36,7 @@ int main(){
         std::cerr <<" double exception";
     }catch (char c){
         std::cerr <<" char exception";
-    }catch (const House&){
-        std::cerr <<" House exception";
+    }catch (const MyClass&){
+        std::cerr <<" MyClass exception";
     }
 }

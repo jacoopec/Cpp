@@ -1,0 +1,2 @@
+canvas_rectangle(c,0,0,79,32,'*');
+canvas_circle(c, 10, 10,4, '@');
